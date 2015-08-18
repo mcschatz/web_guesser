@@ -1,7 +1,7 @@
-# web_guesser
-module_2_pre_work
+# Web Guesser
+Module 2: Pre-Work
 
-In this introductory level project, you’ll use Sinatra to build a number guessing game.
+In this introductory level project, I used Sinatra to build a number guessing game.
 
 ###Goals
 
